@@ -4,7 +4,7 @@ import java.util.Date;
  * A class containing information about buses. 
  * The methods contain checks for invalid queries, which will result in
  * InvalidQueryExceptions being thrown, but it does not enforce "business
- * rules" such as checking for dates in the past. UPDATED
+ * rules" such as checking for dates in the past.
  */
 public class BusInfo 
 {
